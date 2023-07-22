@@ -1,0 +1,29 @@
+epoch - 50 , BS-128 =>
+1 pair of layers added
+   test-0.9348958333333334 , val-0.9238 , train-0.9858
+
+epoch - 50 , BS-128 =>
+1 pair of layers removed
+   test-0.9635416666666666 , val-0.9505 , train-1.0000
+
+epoch - 50 , 4 layers =>
+batchsize trainingacc valacc    testacc
+32	    0.9799     0.9264    0.935546875
+64	    0.9852     0.9577    0.9498697916666666
+128	    0.9780     0.9329    0.9518229166666666
+256	    0.9700     0.9284    0.9381510416666666
+
+batchsize 128 and one layer was removed =>
+epoch     trainingacc      valacc       testacc
+15	    0.9342         0.9010     0.912109375
+25	    0.9630         0.9251     0.9290364583333334
+35	    0.9890         0.9466     0.951171875
+50	    1.0000         0.9505     0.9635416666666666
+
+
+
+
+
+
+
+
