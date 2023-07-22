@@ -17,7 +17,7 @@ Google Colab , Jupeter Notebook
 
 ## Some Sample Outputs -   
 <p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/fd1a687c-6c0c-49df-ae08-7792d5b3dade" width="500" height="250" /></kbd></p>
-<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/b0b2d178-e953-4586-a063-8e2f44847db6" width="500" height="250" /></kbd>
-<kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/b1a73d82-a71b-47d2-9837-3e0e962609bc" width="500" height="250" /></kbd></p><br>
-<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/1404ee9c-afcd-4224-bb9e-01ca4cb81342" width="500" height="250" /></kbd>
-<kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/454be3e5-a080-40b1-89b2-a8b05d96c689" width="500" height="250" /></kbd></p><br>
+<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/b0b2d178-e953-4586-a063-8e2f44847db6" width="500" height="250" /></kbd></p>
+<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/b1a73d82-a71b-47d2-9837-3e0e962609bc" width="500" height="250" /></kbd></p>
+<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/1404ee9c-afcd-4224-bb9e-01ca4cb81342" width="500" height="250" /></kbd></p>
+<p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/454be3e5-a080-40b1-89b2-a8b05d96c689" width="500" height="250" /></kbd></p>
