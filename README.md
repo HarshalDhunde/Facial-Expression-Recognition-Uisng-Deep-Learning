@@ -7,10 +7,18 @@
 </ul>  
 
 ## Language Used - 
-Python , React , Fast-api , Postman(For testing)
+<ul>
+  <li>Python</li>
+  <li>React</li>
+  <li>Fast-api</li>
+</ul>
 
 ## Tool Used - 
-Google Colab , Jupeter Notebook
+<ul>
+  <li>Google Colab</li>
+  <li>Jupeter Notebook</li>
+  <li>Postman(For testing)</li>
+</ul>
 
 ## UI of the Website - 
 <p align="center"><kbd><img src="https://github.com/HarshalDhunde/-facialExpressionRecognition/assets/101267394/0c07e435-1ef6-4fda-83e5-7abb8d542292" width="600" height="350" /></kbd></p>
